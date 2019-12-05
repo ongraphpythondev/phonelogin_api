@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.8
 django-phone-field==1.8.0
 django-rest-auth==0.9.5
 djangorestframework==3.10.3
